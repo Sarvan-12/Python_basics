@@ -1,0 +1,10 @@
+a=4
+b=7.5
+sum=a+b
+print(sum)
+c,d="2",3
+name="sarvan"
+print((c+name)*d)
+print(type(sum))
+e,f="a","$"
+print((e+f)*3)

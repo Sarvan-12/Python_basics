@@ -15,3 +15,5 @@ To explore the code locally, clone this repository:
 ```bash
 git clone https://github.com/Sarvan-12/Python_basics.git
 ```
+
+If you found this repository helpful or learned something new, please consider giving it a ⭐!
